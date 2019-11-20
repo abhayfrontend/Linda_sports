@@ -19,7 +19,7 @@ import { CarouselModule } from "ngx-bootstrap/carousel";
 import { ModalModule } from "ngx-bootstrap/modal";
 
 import { PagesModule } from "./pages/pages.module";
-
+import {FooterComponent} from '../app/pages/footer/footer.component';
 import { IndexComponent } from "./pages/index/index.component";
 import { ProfilepageComponent } from "./pages/examples/profilepage/profilepage.component";
 import { RegisterpageComponent } from "./pages/examples/registerpage/registerpage.component";
@@ -28,7 +28,8 @@ import { NavbarComponent } from '../app/pages/navbar/navbar/navbar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent
+    NavbarComponent,
+    FooterComponent
     // IndexComponent,
     // ProfilepageComponent,
     // RegisterpageComponent,

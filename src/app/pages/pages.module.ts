@@ -22,7 +22,7 @@ import { ProfilepageComponent } from "./examples/profilepage/profilepage.compone
 import { RegisterpageComponent } from "./examples/registerpage/registerpage.component";
 import { LandingpageComponent } from "./examples/landingpage/landingpage.component";
 import { HomeComponent } from './home/home.component';
-import { FooterComponent } from './footer/footer.component';
+
 import { ServicesfootballComponent } from './servicesfootball/servicesfootball.component';
 import { RosterComponent } from './roster/roster.component';
 import { AboutUsComponent } from './about-us/about-us.component';
@@ -53,7 +53,7 @@ import { AboutUsComponent } from './about-us/about-us.component';
     LandingpageComponent,
     
     HomeComponent,
-    FooterComponent,
+
     ServicesfootballComponent,
     RosterComponent,
     AboutUsComponent
