@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "description": "BLK Design System Angular: Free Angular Design System For Bootstrap 4 and Angular",
+    "description": "Linda Sports",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
@@ -54,7 +54,7 @@
     "responsive ui kit",
     "responsive angular ui kit",
     "blk design system",
-    "blk design system angular"
+    "linda sports"
   ],
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
